@@ -30,8 +30,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/venkateshbaddela/intro-signup-form]
+- Live Site URL: [https://venkateshbaddela.github.io/intro-signup-form/]
 
 ### Built with
 
